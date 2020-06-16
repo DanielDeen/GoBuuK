@@ -1,9 +1,5 @@
-A Go Road With Little GoLang
 
----
-
-Go GO GO
-
+> 当前包含代码和知识点
 
 #### Go 语言设计与实现
 
