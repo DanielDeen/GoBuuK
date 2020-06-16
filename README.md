@@ -1,9 +1,12 @@
+```Go
+package main
 
-`import "fmt"
- 
- func main() {
- 	fmt.Print("Hello Go! Let's go!")
- }`
+import "fmt"
+
+func main() {
+    fmt.Print("Hello Go! Let's go!")
+}
+```
 
 
 
