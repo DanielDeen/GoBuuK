@@ -1,7 +1,9 @@
 
+`Hello, Go! Let's go!`
+
 > 当前项目包含使用Go语言项目代码以及学习Go语言中的知识点
 
-`Hello, Go! Let's go!`
+----
 
 [TodoList](./Todo.md)
 
